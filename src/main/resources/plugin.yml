@@ -1,0 +1,5 @@
+name: minePouch
+version: '${version}'
+main: net.aoissx.mc.minepouch.MinePouch
+api-version: '1.20'
+load: STARTUP

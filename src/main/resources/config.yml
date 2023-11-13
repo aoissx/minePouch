@@ -1,0 +1,9 @@
+# config
+
+# database info
+db:
+  host: xxx.xxx.xxx
+  port: 5432
+  user: postgres
+  passwd: postgres
+  db: minecraft

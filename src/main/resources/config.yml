@@ -7,3 +7,4 @@ db:
   user: postgres
   passwd: postgres
   db: minecraft
+  prefix: mp-

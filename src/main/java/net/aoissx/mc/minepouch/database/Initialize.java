@@ -20,6 +20,7 @@ public class Initialize extends DatabaseManager {
                 ");";
         String pouch_table = "CREATE TABLE IF NOT EXISTS " + pouch + " ( " +
                 "    id SERIAL PRIMARY KEY, " +
+                "    uuid VARCHAR(255), "+
                 "    item_index INT, " +
                 "    item BYTEA " +
                 ");";

@@ -1,6 +1,6 @@
 # config
 
-# database info
+# net.aoissx.mc.minepouch.database info
 db:
   host: xxx.xxx.xxx
   port: 5432
